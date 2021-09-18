@@ -18,7 +18,7 @@ venom
         'sessionName',
         (base64Qr, asciiQR, attempts, urlCode) => {
             console.log(asciiQR); // Optional to log the QR in the terminal
-            var matches = base64Qr.match(/^data:([A-Za-z-+\/]+);base64,(.+)$/),
+            const matches = base64Qr.match(/^data:([A-Za-z-+\/]+);base64,(.+)$/),
                 response = {};
 
             if (matches.length !== 3) {
@@ -27,7 +27,7 @@ venom
             response.type = matches[1];
             response.data = new Buffer.from(matches[2], 'base64');
 
-            var imageBuffer = response;
+            const imageBuffer = response;
             require('fs').writeFile(
                 'public/img/qr.png',
                 imageBuffer['data'],
@@ -93,9 +93,9 @@ venom
 
         client.onMessage((message) => {
             // const msj = message.body.substring(0, 2);
-            const regex_scuter = /nume:.{4,},\snr inmatriculare:.{1,}-{4,},\skm:.{1,}/g;
-            const regex_car = /nume:.{4,},\snr inmatriculare:.{5,},\skm:.{1,}/g;
-            const regex = /nume:.{4,},\snr inmatriculare:.{1,}-.{4,},\skm:.{1,}/g;
+            const regex_scuter = /nume:.{4,},\snr inmatriculare:.+-,\skm:.+/g;
+            const regex_car = /nume:.{4,},\snr inmatriculare:.{5,},\skm:.+/g;
+            const regex = /nume:.{4,},\snr inmatriculare:.+-.{4,},\skm:.+/g;
             // if (message.body.match(regex) && message.isGroupMsg === false) {
             if (message.body.match(regex) && message.isGroupMsg === false) {
                 // console.log(message.body);
@@ -110,8 +110,8 @@ venom
                     .sendText(message.from, 'Informatiile se proceseaza')
                     .then((result) => {
                         const phone = result['to']['remote']['user'];
-                        var currentdate = new Date();
-                        var this_day = currentdate.getDate() + "-"
+                        const currentdate = new Date();
+                        const this_day = currentdate.getDate() + "-"
                             + (currentdate.getMonth() + 1) + "-"
                             + currentdate.getFullYear();
                         let verify = 'SELECT * FROM info WHERE timestamp = "' + this_day + '" AND nr = "' + phone + '"';
@@ -153,11 +153,11 @@ venom
                     .sendText(message.from, 'Poza a fost receptionata')
                     .then(async (result) => {
                         const phone = result['to']['remote']['user'];
-                        var currentdate = new Date();
-                        var this_day = currentdate.getDate() + "-"
+                        const currentdate = new Date();
+                        const this_day = currentdate.getDate() + "-"
                             + (currentdate.getMonth() + 1) + "-"
                             + currentdate.getFullYear();
-                        var img_name = this_day + "@" + phone;
+                        const img_name = this_day + "@" + phone;
                         let verify = 'SELECT * FROM info WHERE timestamp = "' + this_day + '" AND nr = "' + phone + '"';
                         console.log("verify_img= " + verify);
                         con.query(verify, async (err, result) => {

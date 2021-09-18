@@ -67,7 +67,7 @@ app.use(i18n.init);
 app.use((req, res, next) => {
     if (req.cookies.locale === undefined) {
         res.cookie('locale', 'ro', {maxAge: 900000, httpOnly: true});
-        req.setLocale('ro');
+        // req.setLocale('ro');
     }
     next();
 });
