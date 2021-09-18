@@ -1,0 +1,398 @@
+Server started on Port 80
+MYSQL Connected...
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+MYSQL Connected...
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+MYSQL Connected...
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+MYSQL Connected...
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+MYSQL Connected...
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+MYSQL Connected...
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+MYSQL Connected...
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+MYSQL Connected...
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+MYSQL Connected...
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+MYSQL Connected...
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+MYSQL Connected...
+Server started on Port 80
+MYSQL Connected...
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
+MYSQL Connected...
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+Server started on Port 80
+MYSQL Connected...
+Server started on Port 80
+MYSQL Connected...
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+SELECT * FROM info LIMIT 10 OFFSET 50
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+SELECT * FROM info LIMIT 10 OFFSET 50
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+SELECT * FROM info LIMIT 10 OFFSET 40
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+SELECT * FROM info LIMIT 10 OFFSET 50
+{ id: 1, iat: 1631891386, exp: 1639667386 }
+[
+  RowDataPacket {
+    id: 1,
+    name: 'da',
+    email: 'iosef_gabriel@yahoo.com',
+    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+    token: '2'
+  }
+]
+user is
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+1
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+SELECT * FROM info LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+SELECT * FROM info LIMIT 10 OFFSET 40
+[
+  RowDataPacket { nr: '0754856887' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40728319409' },
+  RowDataPacket { nr: '40728680879' },
+  RowDataPacket { nr: '40734196869' },
+  RowDataPacket { nr: '40743319452' },
+  RowDataPacket { nr: '40745274470' },
+  RowDataPacket { nr: '40752481913' },
+  RowDataPacket { nr: '40754856887' },
+  RowDataPacket { nr: '40757566203' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247521' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40799955190' },
+  RowDataPacket { nr: '40799955191' }
+]
+SELECT * FROM info LIMIT 10 OFFSET 50

@@ -1,0 +1,33 @@
+<nav class="navbar navbar-expand-lg fixed-top clean-navbar" style="background-color:#1d3557">
+    <div class="container"><a class="navbar-brand logo" href="#">Brand</a>
+        <button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span
+                class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navcol-1">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link" href="/#home" >{{{__ "navbar_1"}}}</a></li>
+                <li class="nav-item"><a class="nav-link" href="/#features">{{{__ "navbar_2"}}}</a></li>
+                <li class="nav-item"><a class="nav-link" href="/#pricing">{{{__ "navbar_3"}}}</a></li>
+                <li class="nav-item"><a class="nav-link" href="/#about-us">{{{__ "navbar_4"}}}</a></li>
+                <li class="nav-item"><a class="nav-link" href="/#contact-us">{{{__ "navbar_5"}}}</a></li>
+                {{#if user }}
+                    <li class="nav-item"><a class="nav-link" href="/account/dashboard">{{{__ "navbar_8"}}}</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/account/logout">{{{__ "navbar_9"}}}</a></li>
+                {{else}}
+                    <li class="nav-item"><a class="nav-link" href="/login">{{{__ "navbar_6"}}}</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/register">{{{__ "navbar_7"}}}</a></li>
+                {{/if}}
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button"
+                       data-bs-toggle="dropdown" aria-expanded="false"><span
+                            class="flag-icon flag-icon-{{langcheck lang}}"></span></a>
+                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                        <li><a class="nav-link" href="/ro"><span class="flag-icon flag-icon-ro"></span>&nbsp;{{{__
+                                "ro"}}}</a></li>
+                        <li><a class="nav-link" href="/en"><span class="flag-icon flag-icon-us"></span>&nbsp;{{{__
+                                "en"}}}</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

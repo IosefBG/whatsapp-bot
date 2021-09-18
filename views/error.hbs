@@ -1,0 +1,90 @@
+
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--  <meta charset="UTF-8">-->
+<!--  <meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+<!--  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">-->
+<!--  <link rel="stylesheet" href="/style.css">-->
+<!--  <title>Document</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--  <nav>-->
+<!--    <h4>Node MySQL</h4>-->
+<!--    <ul>-->
+<!--      <li><a href="/">Home</a></li>-->
+<!--      <li><a href="/login">Login</a></li>-->
+<!--      <li><a href="/register">Register</a></li>-->
+<!--    </ul>-->
+<!--  </nav>-->
+
+<!--  <div class="container mt-4">-->
+<!--    <div class="card">-->
+<!--      <div class="card-header">-->
+<!--        Register Form-->
+<!--      </div>-->
+<!--      <div class="card-body">-->
+<!--        <form action="/account/register" method="POST">-->
+<!--          <div class="form-group">-->
+<!--            <label for="name">Name</label>-->
+<!--            <input type="text" class="form-control" id="name" name="name">-->
+<!--          </div>-->
+
+<!--          <div class="form-group">-->
+<!--            <label for="email">Email Address</label>-->
+<!--            <input type="email" class="form-control" id="email" name="email">-->
+<!--          </div>-->
+
+<!--          <div class="form-group">-->
+<!--            <label for="password">Password</label>-->
+<!--            <input type="password" class="form-control" id="password" name="password">-->
+<!--          </div>-->
+
+<!--          <div class="form-group">-->
+<!--            <label for="passwordConfirm">Confirm Password</label>-->
+<!--            <input type="password" class="form-control" id="passwordConfirm" name="passwordConfirm">-->
+<!--          </div>-->
+<!--          -->
+<!--          <button type="submit" class="btn btn-primary">Register User</button>-->
+<!--        </form>-->
+<!--      </div>-->
+<!--    </div>-->
+
+        <!--    {{#if message }}-->
+<!--      <h4 class="alert alert-danger mt-4">{{message}}</h4>-->
+        <!--    {{/if}}-->
+<!--  </div>-->
+
+<!--  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>-->
+<!--</body>-->
+<!--</html>-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Home - Brand</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
+    <link rel="stylesheet" href="/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
+</head>
+<body>
+{{>header}}
+<div class="container">
+    {{#if message }}
+        <h4 class="alert alert-danger mt-4">{{message}}</h4>
+    {{/if}}
+</div>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+<script src="/js/main.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+</body>
+</html>
