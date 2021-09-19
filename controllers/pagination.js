@@ -1,55 +1,60 @@
-class Pagination{
+class Pagination {
 
-    constructor(totalCount,currentPage,pageUri,perPage=2){
+    constructor(totalCount, currentPage, pageUri, perPage = 2, filterv) {
+        if (filterv) {
+            this.filterv = "/" + filterv;
+        } else {
+            this.filterv = "";
+        }
         this.perPage = perPage;
-        this.totalCount =parseInt(totalCount);
+        this.totalCount = parseInt(totalCount);
         this.currentPage = parseInt(currentPage);
         this.previousPage = this.currentPage - 1;
         this.nextPage = this.currentPage + 1;
         this.pageCount = Math.ceil(this.totalCount / this.perPage);
         this.pageUri = pageUri;
-        this.start  = this.currentPage > 1 ? this.previousPage * this.perPage : 0;
+        this.start = this.currentPage > 1 ? this.previousPage * this.perPage : 0;
         this.sidePages = 4;
         this.pages = false;
     }
 
 
+    links() {
+        this.pages = '<ul class="pagination pagination-md">';
 
-    links(){
-        this.pages='<ul class="pagination pagination-md">';
-
-        if(this.previousPage > 0)
-            this.pages+='<li class="page-item"><a class="page-link" href="'+this.pageUri + this.previousPage+'">Previous</a></li>';
+        if (this.previousPage > 0)
+            this.pages += '<li class="page-item"><a class="page-link" href="' + this.pageUri + this.previousPage + this.filterv + '">Previous</a></li>';
 
 
         /*Add back links*/
-        if(this.currentPage > 1){
+        if (this.currentPage > 1) {
             for (var x = this.currentPage - this.sidePages; x < this.currentPage; x++) {
-                if(x > 0)
-                    this.pages+='<li class="page-item"><a class="page-link" href="'+this.pageUri+x+'">'+x+'</a></li>';
+                if (x > 0)
+                    this.pages += '<li class="page-item"><a class="page-link" href="' + this.pageUri + x + this.filterv + '">' + x + '</a></li>';
             }
         }
 
         /*Show current page*/
-        this.pages+='<li class="page-item active"><a class="page-link" href="'+this.pageUri+this.currentPage+'">'+this.currentPage+'</a></li>';
+        this.pages += '<li class="page-item active"><a class="page-link" href="' + this.pageUri + this.currentPage + '">' + this.currentPage + '</a></li>';
 
         /*Add more links*/
-        for(x = this.nextPage; x <= this.pageCount; x++){
+        for (x = this.nextPage; x <= this.pageCount; x++) {
 
-            this.pages+='<li class="page-item"><a class="page-link" href="'+this.pageUri+x+'">'+x+' </a></li>';
+            this.pages += '<li class="page-item"><a class="page-link" href="' + this.pageUri + x + this.filterv + '">' + x + ' </a></li>';
 
-            if(x >= this.currentPage + this.sidePages)
+            if (x >= this.currentPage + this.sidePages)
                 break;
         }
 
 
         /*Display next buttton navigation*/
-        if(this.currentPage + 1 <= this.pageCount)
-            this.pages+='<li class="page-item"><a class="page-link" href="'+this.pageUri+this.nextPage+'">Next</a></li>';
+        if (this.currentPage + 1 <= this.pageCount)
+            this.pages += '<li class="page-item"><a class="page-link" href="' + this.pageUri + this.nextPage + this.filterv + '">Next</a></li>';
 
-        this.pages+='</ul>';
+        this.pages += '</ul>';
 
         return this.pages;
     }
 }
+
 module.exports = Pagination;

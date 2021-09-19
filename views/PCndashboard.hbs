@@ -41,8 +41,7 @@
 <script type="text/javascript" src="/js/nmain.js"></script>
 <script type="text/javascript">
     function updateImage() {
-        var srcname = "/img/qr.png?" + new Date().getTime();
-        document.getElementById("qr").src = srcname;
+        document.getElementById("qr").src = "/img/qr.png?" + new Date().getTime();
 
     }
         {{#unless status}}

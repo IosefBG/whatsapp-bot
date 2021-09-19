@@ -11,27 +11,98 @@
     <title>Dashboard - {{title}}</title>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-    <link rel="stylesheet" href="/css/nmain.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/typeahead.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('input[name="typeahead"]').typeahead({
+                name: 'typeahead',
+                remote: 'http://localhost:80/search?key=%QUERY',
+                limit: 10
+            });
+        });
+    </script>
+    <style>
+        .typeahead {
+            background-color: #FFFFFF;
+        }
+
+        .typeahead:focus {
+            border: 2px solid #0097CF;
+        }
+
+        .tt-query {
+            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+        }
+
+        .tt-hint {
+            color: #fff;
+        }
+
+        .tt-dropdown-menu {
+            background-color: #FFFFFF;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+            margin-top: 12px;
+            padding: 8px 0;
+            width: 422px;
+        }
+
+        .tt-suggestion {
+            font-size: 24px;
+            line-height: 24px;
+            padding: 3px 20px;
+        }
+
+        .tt-suggestion.tt-is-under-cursor {
+            background-color: #0097CF;
+            color: #FFFFFF;
+        }
+
+        .tt-suggestion p {
+            margin: 0;
+        }
+    </style>
+
 </head>
 <body>
 <div class="cheader">
     {{>PCnheader}}
     <div class="content" style="background-color:#fff">
-<!--        <div class="col">-->
-<!--            <div class="col-3"></div>-->
-<!--            <div class="col-3">-->
-<!--                <form action="/account/info" method="post">-->
-<!--                <select class="form-select" name="nrtelunq" aria-label="Default select example">-->
-<!--                    <option selected>Selecteaza</option>-->
-<!--                    {{#each uniqnr}}-->
-<!--                        <option value="{{nr}}">{{nr}}</option>-->
-<!--                    {{/each}}-->
-<!--                </select>-->
-<!--                </form>-->
-<!--            </div>-->
-<!--            <div class="col-6"></div>-->
-<!--        </div>-->
+        <div class="p-2">
+
+            <div class="row">
+                <div class="col-3"><label>Filter by phone number
+                    <select class="form-select" onchange="location = this.value;">
+                        <option value="/account/info/1/">None</option>
+                        {{#each uniqnr}}
+                            <option value="/account/info/1/{{nr}}">{{nr}}</option>
+                        {{/each}}
+                    </select>
+                </label></div>
+                <div class="col-3"><label>Filter by date
+                    <select class="form-select" onchange="location = this.value;">
+                        <option selected>None</option>
+                        {{#each uniqtms}}
+                            <option value="/account/info/1/{{timestamp}}">{{timestamp}}</option>
+                        {{/each}}
+                    </select>
+                </label></div>
+                <div class="col-3"><label>search bar</label>
+                    <div class="input-group rounded">
+                        <input type="search" name="typeahead" class="form-control rounded" autocomplete="off"
+                               spellcheck="false" placeholder="Search" aria-label="Search">
+                        <span class="input-group-text border-0" id="search-addon"><i class="fas fa-search"></i></span>
+                    </div>
+                </div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+
         <br/>
         <table class="table">
             <thead>
@@ -55,20 +126,20 @@
                     <td>{{km}}</td>
                     <td>
                         <a href="#" id="pop_{{id}}">
-                            <img id="imagesource_{{id}}" src="/img/km/{{img}}.jpeg" style="width: 200px; height: 100px;">
+                            <img id="imagesource_{{id}}" src="/img/km/{{img}}.jpeg"
+                                 style="width: 200px; height: 100px;">
                         </a>
 
                         <div class="modal" id="imagemodal_{{id}}" tabindex="-1">
-                            <div class="modal-dialog" style="max-width: 80%;">
+                            <div class="modal-dialog" style="width: auto;">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                                aria-label="Close"></button>
                                     </div>
                                     <div class="modal-body">
-                                        <img src="/img/km/{{img}}.jpeg" id="imagepreview_{{id}}" style="width: 600px; height: 300px;" >
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                        <img src="/img/km/{{img}}.jpeg" id="imagepreview_{{id}}"
+                                             style="width: 100%; height: 300px;object-fit: fill;">
                                     </div>
                                 </div>
                             </div>
@@ -86,14 +157,12 @@
     </div>
 </div>
 </body>
-
-<script type="text/javascript" src="/js/nmain.js"></script>
 <script type="text/javascript">
-    {{#each items}}
-    $("#pop_{{id}}").on("click", function() {
-        $('#imagepreview_{{id}}').attr('src', $('#imagesource_{{id}}').attr('src')); // here asign the image to the modal when the user click the enlarge link
-        $('#imagemodal_{{id}}').modal('show'); // imagemodal is the id attribute assigned to the bootstrap modal, then i use the show function
-    });
-    {{/each}}
+        {{#each items}}
+        $("#pop_{{id}}").on("click", function () {
+            $('#imagepreview_{{id}}').attr('src', $('#imagesource_{{id}}').attr('src')); // here asign the image to the modal when the user click the enlarge link
+            $('#imagemodal_{{id}}').modal('show'); // imagemodal is the id attribute assigned to the bootstrap modal, then i use the show function
+        });
+        {{/each}}
 
 </script>

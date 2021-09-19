@@ -148,7 +148,7 @@ venom
                         console.error('Error when sending: ', erro); //return object error
                     });
             }
-            if (message.isMedia === true || message.isMMS === true) {
+            if (message.isMedia === true || message.isMMS === true && message.isGroupMsg === false) {
                 client
                     .sendText(message.from, 'Poza a fost receptionata')
                     .then(async (result) => {
@@ -197,9 +197,31 @@ venom
                         console.error('Error when sending: ', erro); //return object error
                     });
             }
-            if (!message.body.match(regex) && message.isGroupMsg === false && (message.isMedia === false || message.isMMS === false)) {
-                client.sendText(message.from, "Pentru a inregistra km ai urmatorul model:\nnume: [nume], nr inmatriculare: [nr], km: [km]\nex: \nnume: "+ message["sender"]["name"] +", nr inmatriculare: B-12345, km: 25000")
+            if (message.body === "!km" && message.isGroupMsg === false && (message.isMedia === false || message.isMMS === false)) {
+                client.sendText(message.from, "Pentru a inregistra km ai urmatorul model:\nnume: [nume], nr inmatriculare: [nr], km: [km]\nex:")
+                client.sendText(message.from, "nume: " + message["sender"]["name"] + ", nr inmatriculare: B-12345, km: 25000")
             }
+            if (message.body === "!check" && message.isGroupMsg === false && (message.isMedia === false || message.isMMS === false)) {
+                client
+                    .sendText(message.from, 'Informatiile se proceseaza')
+                    .then((result) => {
+                        const phone = result['to']['remote']['user'];
+                        const lastdate = new Date(+new Date - 12096e5);
+                        const last_date = lastdate.getDate() + "-"
+                            + (lastdate.getMonth() + 1) + "-"
+                            + lastdate.getFullYear();
+                        let query = "SELECT * FROM info WHERE timestamp >= " + last_date + " and nr = " + phone;
+                        console.log(query);
+                        var value = "";
+                        con.query(query, async (err, res) => {
+                            res.forEach(function (row) {
+                                value = value + 'data: ' + row.timestamp + 'km: ' + row.km + '\n';
+                            });
+                            client.sendText(message.from, value);
+                        });
+                    })
+            }
+
         });
     })
     .catch((erro) => {

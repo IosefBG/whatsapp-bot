@@ -1,6 +1,5 @@
 const express = require('express');
 const accountController = require('../controllers/account');
-const i18n = require('i18n');
 const mysql = require('mysql');
 const router = express.Router();
 
@@ -14,7 +13,7 @@ const db = mysql.createConnection({
 
 router.get('/', accountController.isLoggedIn, (req, res) => {
     console.log(req.user);
-    if( req.user ) {
+    if (req.user) {
         res.redirect('/account/dashboard');
     } else {
         res.render('login');
@@ -40,10 +39,14 @@ router.get('/account/dashboard', accountController.isLoggedIn, (req, res) => {
     if (req.user) {
         let verify = "SELECT value FROM config WHERE name = 'bot_status'";
         db.query(verify, (err, result) => {
-            var valoare;
+            let valoare;
             if (err) console.log(err);
-            if (result[0].value == 0){valoare = undefined;}
-            if (result[0].value == 1){valoare = "1";}
+            if (result[0].value === 0) {
+                valoare = undefined;
+            }
+            if (result[0].value === 1) {
+                valoare = "1";
+            }
             console.log(result[0].value);
             res.render('PCndashboard', {
                 user: req.user,
@@ -58,52 +61,83 @@ router.get('/account/dashboard', accountController.isLoggedIn, (req, res) => {
 
 })
 
-router.get('/account/info/:page',(req,res) => {
-    Pagination = require('../controllers/pagination'),
+router.get('/account/info/:page?/:filter?', (req, res) => {
+    Pagination = require('../controllers/pagination');
+    const urls = req.originalUrl.split('/');
+    const url = urls[urls.length-1];
+    const param = req.params.page;
+    const filterv = req.params.filter;
+    var filter = "";
 
-        // Get current page from url (request parameter)
-        page_id = parseInt(req.params.page),
-        currentPage = page_id > 0 ? page_id : currentPage,
+    if (param !== undefined) {
+        page_id = param;
+        if (filterv !== undefined) {
+            if (filterv.match(/40.{9}/g)) {
+                filter = 'nr = "' + filterv + '" ';
+            }
+            if (filterv.match(/.{2}-.{1,2}-.{4}/g)) {
+                filter = 'timestamp = "' + filterv + '" ';
+            }
+        } else {
+            filter = "nr IS NOT NULL";
+        }
+    } else {
+        page_id = 1;
+    }
+    currentPage = page_id > 0 ? page_id : currentPage, pageUri = '/account/info/';
 
-//Change pageUri to your page url without the 'page' query string
-        pageUri = '/account/info/';
 
-    /*Get total items*/
-    const selwhere = req.body.nrtelunq;
-    // let query = 'SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, '+selwhere+')';
-    let query_b = 'SELECT COUNT(id) as totalCount FROM info';
-    // console.log(query);
-    db.query(query_b,(err,result)=>{
-        db.query('SELECT nr FROM info GROUP BY nr', (err,uniqnr)=>{
-            // Display 10 items per page
+    let query = 'SELECT COUNT(id) as totalCount FROM info WHERE ' + filter;
+    console.log(filter);
+    console.log(query);
+    db.query(query, (err, result) => {
+        db.query('SELECT nr FROM info GROUP BY nr', (err, uniqnr) => {
+            db.query('SELECT timestamp FROM info GROUP BY timestamp', (err, uniqtms) => {
+                console.log(uniqtms);
+                console.log(uniqnr);
+                const perPage = 10, totalCount = result[0].totalCount;
+                // Instantiate Pagination class
+                const Paginate = new Pagination(totalCount, currentPage, pageUri, perPage, filterv);
 
-            console.log(uniqnr);
-            const perPage = 10,
-                totalCount = result[0].totalCount;
+                /*Query items*/
+                let query = "SELECT * FROM info WHERE " + filter + " LIMIT " + Paginate.perPage + " OFFSET " + Paginate.start + "";
+                console.log(query);
+                db.query(query, (err, result) => {
+                    data = {
+                        path: url,
+                        uniqtms: uniqtms,
+                        uniqnr: uniqnr,
+                        items: result,
+                        pages: Paginate.links()
+                    }
 
-            // Instantiate Pagination class
-            const Paginate = new Pagination(totalCount,currentPage,pageUri,perPage);
-
-            /*Query items*/
-            let query = "SELECT * FROM info LIMIT "+Paginate.perPage+" OFFSET "+Paginate.start+"";
-            console.log(query);
-            db.query(query,(err,result)=>{
-                data = {
-                    uniqnr: uniqnr,
-                    items : result,
-                    pages : Paginate.links()
-                }
-
-                // Send data to view
-                // console.log(result);
-                res.render('info',data);
+                    // Send data to view
+                    // console.log(result);
+                    res.render('info', data);
+                });
             });
         });
     });
 
 });
 
-// router.post('/account/info', (req,res) => {
-//
-// })
+
+router.get('/test', function (req, res) {
+    res.render('info2');
+});
+
+router.get('/search',function(req,res){
+    db.query('SELECT nr from info where nr like "%'+req.query.key+'%"', function(err, rows, fields) {
+        console.log(rows)
+        if (err) throw err;
+        var data=[];
+        for(i=0;i<rows.length;i++)
+        {
+            data.push(rows[i].nr);
+        }
+        console.log(data);
+        res.end(JSON.stringify(data));
+    });
+});
+
 module.exports = router;

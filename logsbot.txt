@@ -1,398 +1,689 @@
-Server started on Port 80
-MYSQL Connected...
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-MYSQL Connected...
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-MYSQL Connected...
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-MYSQL Connected...
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-MYSQL Connected...
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-MYSQL Connected...
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-MYSQL Connected...
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-MYSQL Connected...
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-MYSQL Connected...
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-MYSQL Connected...
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-MYSQL Connected...
-Server started on Port 80
-MYSQL Connected...
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-SELECT COUNT(id) as totalCount FROM info WHERE nr <= IF(? IS NOT NULL, ?, undefined)
-MYSQL Connected...
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-Server started on Port 80
-MYSQL Connected...
-Server started on Port 80
-MYSQL Connected...
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-SELECT * FROM info LIMIT 10 OFFSET 50
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-SELECT * FROM info LIMIT 10 OFFSET 50
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-SELECT * FROM info LIMIT 10 OFFSET 40
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-SELECT * FROM info LIMIT 10 OFFSET 50
-{ id: 1, iat: 1631891386, exp: 1639667386 }
-[
-  RowDataPacket {
-    id: 1,
-    name: 'da',
-    email: 'iosef_gabriel@yahoo.com',
-    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
-    token: '2'
-  }
-]
-user is
-RowDataPacket {
-  id: 1,
-  name: 'da',
-  email: 'iosef_gabriel@yahoo.com',
-  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
-  token: '2'
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
 }
-RowDataPacket {
-  id: 1,
-  name: 'da',
-  email: 'iosef_gabriel@yahoo.com',
-  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
-  token: '2'
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
 }
-1
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-SELECT * FROM info LIMIT 10 OFFSET 0
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-SELECT * FROM info LIMIT 10 OFFSET 40
-[
-  RowDataPacket { nr: '0754856887' },
-  RowDataPacket { nr: '40726634755' },
-  RowDataPacket { nr: '40728319409' },
-  RowDataPacket { nr: '40728680879' },
-  RowDataPacket { nr: '40734196869' },
-  RowDataPacket { nr: '40743319452' },
-  RowDataPacket { nr: '40745274470' },
-  RowDataPacket { nr: '40752481913' },
-  RowDataPacket { nr: '40754856887' },
-  RowDataPacket { nr: '40757566203' },
-  RowDataPacket { nr: '40769280160' },
-  RowDataPacket { nr: '40787247521' },
-  RowDataPacket { nr: '40787247522' },
-  RowDataPacket { nr: '40799955190' },
-  RowDataPacket { nr: '40799955191' }
-]
-SELECT * FROM info LIMIT 10 OFFSET 50
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+SELECT * FROM info WHERE timestamp >= 4-9-2021 and nr = 40752481913
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Status Session:  chatsAvailable
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+SELECT * FROM info WHERE timestamp >= 4-9-2021 and nr = 40787247522
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+SELECT * FROM info WHERE timestamp >= 4-9-2021 and nr = 40752481913
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+SELECT * FROM info WHERE timestamp >= 4-9-2021 and nr = 40787247522
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+SELECT * FROM info WHERE timestamp >= 4-9-2021 and nr = 40787247522
+ReferenceError: value is not defined
+    at C:\USERS\GABI\WEBSTORMPROJECTS\UL\BOT.JS:218:37
+    at Array.forEach (<anonymous>)
+    at Query.<anonymous> (C:\USERS\GABI\WEBSTORMPROJECTS\UL\BOT.JS:217:43)
+    at Query.<anonymous> (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\Connection.js:526:10)
+    at Query._callback (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\Connection.js:488:16)
+    at Query.Sequence.end (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\sequences\Query.js:149:8)
+    at Query.EofPacket (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\sequences\Query.js:133:8)
+    at Protocol._parsePacket (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\Parser.js:433:10)
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+SELECT * FROM info WHERE timestamp >= 4-9-2021 and nr = 40787247522
+ReferenceError: value is not defined
+    at C:\USERS\GABI\WEBSTORMPROJECTS\UL\BOT.JS:218:37
+    at Array.forEach (<anonymous>)
+    at Query.<anonymous> (C:\USERS\GABI\WEBSTORMPROJECTS\UL\BOT.JS:217:43)
+    at Query.<anonymous> (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\Connection.js:526:10)
+    at Query._callback (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\Connection.js:488:16)
+    at Query.Sequence.end (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\sequences\Query.js:149:8)
+    at Query.EofPacket (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\sequences\Query.js:133:8)
+    at Protocol._parsePacket (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\USERS\GABI\WEBSTORMPROJECTS\UL\node_modules\mysql\lib\protocol\Parser.js:433:10)
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+SELECT * FROM info WHERE timestamp >= 4-9-2021 and nr = 40787247522

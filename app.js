@@ -72,19 +72,14 @@ app.use((req, res, next) => {
     next();
 });
 
-// exphbs.registerHelper('qrimage', function(){
-//     let query = "select value from config where name='bot_status'";
-//     con.query(query, (err, res) => {
-//         if(res[0].value == 0){
-//             console.log(0);
-//             return false;
-//         }
-//         if(res[0].value == 1){
-//             console.log(1);
-//             return "asd";
-//         }
-//     });
-// });
+exphbs.registerHelper('hrefcheck', function(url, value, nr){
+    this.url = url;
+    this.value = value;
+    this.nr = nr;
+    if(this.url === this.value + this.nr){
+        return "selected";
+    }
+});
 
 con.connect((error) => {
     if (error) {
@@ -103,6 +98,8 @@ app.use(
         secret: process.env.SESSION_SECRET,
     })
 );
+
+
 app.use('/', require('./routes/pages'));
 
 app.listen(80, () => {
