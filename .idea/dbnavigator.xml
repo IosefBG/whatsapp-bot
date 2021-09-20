@@ -28,7 +28,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="729f78a8-2ff1-4c19-930d-6f3e250b2418">
-      <console name="Connection" type="STANDARD" schema="" session="Main"><![CDATA[SET time_zone = 'Europe/Bucharest';]]></console>
+      <console name="Connection" type="STANDARD" schema="" session="Main" />
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">

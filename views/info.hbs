@@ -18,8 +18,8 @@
     <script type="text/javascript" src="/js/typeahead.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
-            $('input[name="typeahead"]').typeahead({
-                name: 'typeahead',
+            $('input[name="phnr"]').typeahead({
+                name: 'phnr',
                 remote: 'http://localhost:80/search?key=%QUERY',
                 limit: 10
             });
@@ -84,19 +84,25 @@
                         {{/each}}
                     </select>
                 </label></div>
-                <div class="col-3"><label>Filter by date
-                    <select class="form-select" onchange="location = this.value;">
-                        <option selected>None</option>
-                        {{#each uniqtms}}
-                            <option value="/account/info/1/{{timestamp}}">{{timestamp}}</option>
-                        {{/each}}
-                    </select>
-                </label></div>
+                <div class="col-3">
+                    <label>Filter by date
+                        <select class="form-select" onchange="location = this.value;">
+                            <option selected>None</option>
+                            {{#each uniqtms}}
+                                <option value="/account/info/1/{{timestamp}}">{{timestamp}}</option>
+                            {{/each}}
+                        </select>
+                    </label>
+                </div>
                 <div class="col-3"><label>search bar</label>
                     <div class="input-group rounded">
-                        <input type="search" name="typeahead" class="form-control rounded" autocomplete="off"
+                    <form action="/account/info/1" method="post">
+                        <input type="search" name="phnr" class="form-control rounded" autocomplete="off"
                                spellcheck="false" placeholder="Search" aria-label="Search">
-                        <span class="input-group-text border-0" id="search-addon"><i class="fas fa-search"></i></span>
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+
+                        <!--                        <span class="input-group-text border-0" id="search-addon"><i class="fas fa-search"></i></span>-->
                     </div>
                 </div>
                 <div class="col-3"></div>

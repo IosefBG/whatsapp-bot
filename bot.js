@@ -93,9 +93,10 @@ venom
 
         client.onMessage((message) => {
             // const msj = message.body.substring(0, 2);
-            const regex_scuter = /nume:.{4,},\snr inmatriculare:.+-,\skm:.+/g;
-            const regex_car = /nume:.{4,},\snr inmatriculare:.{5,},\skm:.+/g;
+            // const regex_scuter = /nume:.{4,},\snr inmatriculare:.+-,\skm:.+/g;
+            // const regex_car = /nume:.{4,},\snr inmatriculare:.{5,},\skm:.+/g;
             const regex = /nume:.{4,},\snr inmatriculare:.+-.{4,},\skm:.+/g;
+            console.log(message.body);
             // if (message.body.match(regex) && message.isGroupMsg === false) {
             if (message.body.match(regex) && message.isGroupMsg === false) {
                 // console.log(message.body);
@@ -148,7 +149,7 @@ venom
                         console.error('Error when sending: ', erro); //return object error
                     });
             }
-            if (message.isMedia === true || message.isMMS === true && message.isGroupMsg === false) {
+            if ((message.isMedia === true || message.isMMS === true) && message.isGroupMsg === false) {
                 client
                     .sendText(message.from, 'Poza a fost receptionata')
                     .then(async (result) => {

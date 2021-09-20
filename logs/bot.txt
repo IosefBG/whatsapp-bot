@@ -1,0 +1,1666 @@
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Ce facii??
+🥺
+Cum e la munci?
+In metrouu
+Uof
+Multuu
+Cauta careva chirie?
+ce oferta ai :)?
+(intreb pt cineva cunoscut)
+Trebuie precizat în special celor de la Mega si de unde mai ridicam comenzi !
+Ei nu poarta masca, ori o poarta imcorect.
+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
+Mi am luat un bolt
+Ca mi lua prea mult cu stb ul
+Am ajuns la poli
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAHwMBIgACEQEDEQH/xAAuAAACAwEAAAAAAAAAAAAAAAACAwABBAUBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAOZsxLF0caYN0BzlB6LjRQjV57EIdOgBQ1B2uxjJEAMgf//EACIQAQACAgICAgMBAAAAAAAAAAEAAgMREhMhMQRBBRQiUf/aAAgBAQABPwDH1OhUnR8JN90rg+Hrbll+obFVT6ZbHkCq11HlX3OT43Da6CN2xUV8TrE5adQKNtAzps+TxA3LVOHvyfU/GlL5/wCp8nKVz3D1uWsY0Ky6ppJ8QrTaTNhLZGwy3lT/ACWdzFlvXccq46xtbfJjbc2lU1N248fqG09R8eybm9z9gU/mfsL44k7vrU7J/8QAFxEBAQEBAAAAAAAAAAAAAAAAEQEQIP/aAAgBAgEBPwDWphXn/8QAGREAAgMBAAAAAAAAAAAAAAAAAREAECAh/9oACAEDAQE/AKBiFPkWP//Z
+verify_img= SELECT * FROM info WHERE timestamp = "20-9-2021" AND nr = "40726634755"
+Result:  {
+  me: {
+    id: '1',
+    ref: '1@gJ+qG1XVFFeKvgH1Q+IiwI6wku8QPqO8mJynDUmSfGOWFpLRXI6LvLPYgpj5hp6uXCUsDSt3IB4NBA==',
+    refTTL: 20000,
+    wid: {
+      server: 'c.us',
+      user: '40754856887',
+      _serialized: '40754856887@c.us'
+    },
+    connected: true,
+    protoVersion: [ 0, 17 ],
+    clientToken: 'GhQwPzC01vANJB3TGonTGzFq+CSz4RGH70+D3yc0nEk=',
+    serverToken: '1@YE7tT5j2quZksfH+3vVLVXWIIYKml6tHGKYM9G40Mxo80gOwsbbKm27hwKhBdTntuH6yWfKQmoi5EA==',
+    isResponse: 'true',
+    battery: 78,
+    plugged: false,
+    lc: 'RO',
+    lg: 'ro',
+    locales: 'ro-RO',
+    is24h: true,
+    platform: 'android',
+    phone: {
+      wa_version: '2.21.18.17',
+      mcc: '226',
+      mnc: '010',
+      os_version: '10',
+      device_manufacturer: 'samsung',
+      device_model: 'beyond2',
+      os_build_number: 'QP1A.190711.020.G975FXXU3BSKO'
+    },
+    tos: 0,
+    smbTos: 0,
+    pushname: 'Gabi',
+    stale: false,
+    blockStoreAdds: false,
+    isVoipInitialized: false
+  },
+  to: {
+    fromMe: true,
+    remote: {
+      server: 'c.us',
+      user: '40726634755',
+      _serialized: '40726634755@c.us'
+    },
+    id: 'QMUTEIVK3XJ5SLVZBR9L',
+    _serialized: 'true_40726634755@c.us_QMUTEIVK3XJ5SLVZBR9L'
+  },
+  erro: false,
+  text: 'Poza a fost receptionata',
+  status: 'OK',
+  type: 'sendText'
+}
+Data received from Db: 
+[]
+Data received from Db: 
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 103,
+  serverStatus: 2,
+  warningCount: 4,
+  message: '',
+  protocol41: true,
+  changedRows: 0
+}
+Ce face paco
+Auzi
+I ai mai schimbat apa și mâncarea?
+Zoom ul trb instalat, nu?
+0e pc
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Am rezolvat ns
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Mda, m am dus degeaba
+Trb sa ma duc cand incepe scoala
+Pe 4
+Mrg, o sa apară pe site
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAD8ALwMBIgACEQEDEQH/xAAsAAACAwEAAAAAAAAAAAAAAAADBAACBQEBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAADTsYdg1HOVkUfJDg5nDBcXq7IFS2OZ5EYsk4orunlumFfsiUtDlbw//8QAIhAAAgICAwACAwEAAAAAAAAAAQIAEQMEEiFBEBQTIzEz/9oACAEBAAE/AM2smV1f1YYZsawzJUOsmqquezPsMSwzgsh8EJ+GHxtAuAnCxEw41FhZcZwvZg2OzBkVv4ZczAuhCtRlzZdy/EQqynpoMpB7ibF0JyM5TZyfsAnfpjFvyTCAXWxAFHk+wgF8hMzB8ysJ0fY3+kxOFcQ7OIdXOfgQxWewY+VrFSy59uMX8lMx7lzlLly5c//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQIBAT8AT//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQMBAT8AT//Z
+verify_img= SELECT * FROM info WHERE timestamp = "20-9-2021" AND nr = "40726634755"
+Result:  {
+  me: {
+    id: '1',
+    ref: '1@t6kn5glhuFI2kthrKy9V/+J0oV6Y/CVJ6/Vt+3qrIfG+Qx1tntf6Z8F6gOL4MIcleIv+uPVj/YkWzw==',
+    refTTL: 20000,
+    wid: {
+      server: 'c.us',
+      user: '40754856887',
+      _serialized: '40754856887@c.us'
+    },
+    connected: true,
+    protoVersion: [ 0, 17 ],
+    clientToken: 'PsA4eNKRyA5eMj/LrIVqEJ0UmqiAZ21hV1lcwu6Qrcc=',
+    serverToken: '1@aNNdLfBgyiscgvLlzs1Csfpz1uuQc9/dv0hFX/+f5LVawNvZLXVd/uuInHkPc6UI/A45/YIlCritMQ==',
+    isResponse: 'true',
+    battery: 77,
+    plugged: false,
+    lc: 'RO',
+    lg: 'ro',
+    locales: 'ro-RO',
+    is24h: true,
+    platform: 'android',
+    phone: {
+      wa_version: '2.21.18.17',
+      mcc: '226',
+      mnc: '010',
+      os_version: '10',
+      device_manufacturer: 'samsung',
+      device_model: 'beyond2',
+      os_build_number: 'QP1A.190711.020.G975FXXU3BSKO'
+    },
+    tos: 0,
+    smbTos: 0,
+    pushname: 'Gabi',
+    stale: false,
+    blockStoreAdds: false,
+    isVoipInitialized: false
+  },
+  to: {
+    fromMe: true,
+    remote: {
+      server: 'c.us',
+      user: '40726634755',
+      _serialized: '40726634755@c.us'
+    },
+    id: 'VTKANKSMMZFKETEOGZ8M',
+    _serialized: 'true_40726634755@c.us_VTKANKSMMZFKETEOGZ8M'
+  },
+  erro: false,
+  text: 'Poza a fost receptionata',
+  status: 'OK',
+  type: 'sendText'
+}
+Data received from Db: 
+[
+  RowDataPacket {
+    id: 103,
+    timestamp: '20-9-2021',
+    nr: '40726634755',
+    msj: '',
+    name: '',
+    nrinmatr: '',
+    km: 0,
+    img: '20-9-2021@40726634755'
+  }
+]
+40726634755 a introdus deja poza pe data 20-9-2021
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+?
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAPwMBIgACEQEDEQH/xAAwAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/aAAwDAQACEAMQAAAA9EQgDOrAZyAFjqJgmPnLrWt3MVS1+0RzrywshOWzgalKLaJOt23Tq1OnhXKFQhJHKzQzrgaFOqoY9FipTaDn0k4GNzA0EXgcf//EACgQAAICAgECBQQDAAAAAAAAAAECAAMEERIhIgUQEzJSIzFBURRTY//aAAgBAQABPwBqmLMeWhBRYdd8GPYT74aH6989BwR3w0Pv3+btYGbTiB7vkIXs/DCc7OneJzt+Yga0jXMbmsj9yv1Qe8ywbc9gM1/nOO9brh30PpwIfhNEaIr6yuxtdw1Nj9iY9trou7GirZ/Y05GvqXMOQeYPI6iWFxsMYS/yMLP8jM6+5LRqwzDX2RQJlrt0BMStEGyZW2rO37GEQieJD6izGclkEXKVfew6TKz6WHEDZldqcfsW2Ig5pyXtIlniJqcoV3F8RqaZtgtcFTuUtxIMLEsTDKxvDYhtFTMa0jhUW3yE8QrRLRptt5CKxAh8qD9KxZY7Ky6OtQsWOydnypXm2iZWvM8dwYbH8z+A8x8UqG5MNGDFocnlMmpKn0hgmEB6vdP/xAAgEQACAgEDBQAAAAAAAAAAAAAAAQIRMQMSEyAhQVFh/9oACAECAQE/AOhJs2e2cf0cGiCtWSqyMksjaZ4FkeSHd0Tk0aU3K7GRP//EACARAQABAwMFAAAAAAAAAAAAAAEAAhExAxBBEhMgQlH/2gAIAQMBAT8A8FDLOq+BZ3D5Cu7Ky7NPE1KeYFpztdSMAZUBPXb/2Q==
+verify_img= SELECT * FROM info WHERE timestamp = "20-9-2021" AND nr = "40754227233-1631517065"
+Result:  {
+  me: {
+    id: '1',
+    ref: '1@Io8I1oKQan3R4LMkXAa3KfVV6M10izs/whtnqRHXb5rFXsimKDArkDvX1VfT9aDN76SC2JRJrVpwqw==',
+    refTTL: 20000,
+    wid: {
+      server: 'c.us',
+      user: '40754856887',
+      _serialized: '40754856887@c.us'
+    },
+    connected: true,
+    protoVersion: [ 0, 17 ],
+    clientToken: 'zKiT/zVtkAyLi1hsAy1P4t6hlxC/7Puz0bVU27Hm7mY=',
+    serverToken: '1@V27MZzLcSLULqnq5Wcu8nU9Vt/zKmIT2pjs6Z7EMY7CfVJS3UIhiTUytmYe2VVK2XzYKeag6a7MP5Q==',
+    isResponse: 'true',
+    battery: 77,
+    plugged: false,
+    lc: 'RO',
+    lg: 'ro',
+    locales: 'ro-RO',
+    is24h: true,
+    platform: 'android',
+    phone: {
+      wa_version: '2.21.18.17',
+      mcc: '226',
+      mnc: '010',
+      os_version: '10',
+      device_manufacturer: 'samsung',
+      device_model: 'beyond2',
+      os_build_number: 'QP1A.190711.020.G975FXXU3BSKO'
+    },
+    tos: 0,
+    smbTos: 0,
+    pushname: 'Gabi',
+    stale: false,
+    blockStoreAdds: false,
+    isVoipInitialized: false
+  },
+  to: {
+    fromMe: true,
+    remote: {
+      server: 'g.us',
+      user: '40754227233-1631517065',
+      _serialized: '40754227233-1631517065@g.us'
+    },
+    id: 'O9EIV9VGQLGVFPDFMVLD',
+    _serialized: 'true_40754227233-1631517065@g.us_O9EIV9VGQLGVFPDFMVLD'
+  },
+  erro: false,
+  text: 'Poza a fost receptionata',
+  status: 'OK',
+  type: 'sendText'
+}
+Data received from Db: 
+[]
+Data received from Db: 
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 104,
+  serverStatus: 2,
+  warningCount: 4,
+  message: '',
+  protocol41: true,
+  changedRows: 0
+}
+🤷‍♂️
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Esti vaccinat?
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAC8APwMBIgACEQEDEQH/xAAuAAADAQEBAAAAAAAAAAAAAAABAgMEAAUBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAMsLYU9vHPrFuj6OV5H54u0tCNKHfTPObIOdlrFej0jLqJkGILBxCP/EACcQAAICAAQHAAIDAAAAAAAAAAECAAMREhMhBBQiMUFRUiAjMkJj/9oACAEBAAE/ALnFYxwnMr8ReIAG6GcxWT2M5hfRmuvy01k+WiMrk4Azi1OUCBH+THr/AErgd8O0rrYtuCIaXNgUCaTrsSsawp/JJWc5O0tA2J8SoCzaWVvVgTA28zEHaGxjgfUexmw2GWUV9ZMsRmAi1MDiItFzMcWxE5ayDh37zRZTh4MNLhdxOGrdSxYTp8idI/pM4HZIbf8AMwP4yEQhG7iZV6t+86RNZPc1k9zWT3BYh8wEH8P/xAAcEQACAgMBAQAAAAAAAAAAAAABEQASAhAhMWL/2gAIAQIBAT8AwSliQjMz5LfMwdfVLc6ZwzNVK0t//8QAHREAAQQCAwAAAAAAAAAAAAAAAAECETEQIRIyYf/aAAgBAwEBPwB1kJY1BG+ju1HHdGxszic//9k=
+verify_img= SELECT * FROM info WHERE timestamp = "20-9-2021" AND nr = "40726634755"
+Result:  {
+  me: {
+    id: '1',
+    ref: '1@BnLCfiMQzKropJlV4NQjp/nUyS4+p1C3+Cpz326bUJ8T8kmG5wTpupxWbt+wPMs/wOL3PEvcC78EUg==',
+    refTTL: 20000,
+    wid: {
+      server: 'c.us',
+      user: '40754856887',
+      _serialized: '40754856887@c.us'
+    },
+    connected: true,
+    protoVersion: [ 0, 17 ],
+    clientToken: 'QqrrJgYBX3e8xO9UA+hw1T8ku7rWjK5pMtyRAQZc228=',
+    serverToken: '1@T7D17pqI4fb9Ma+nBvzyQjRwhYAn67B0J4r8xdqxpqejQwvKJ0/7v7zCnBv1jVZow+jGqi98LvyJFQ==',
+    isResponse: 'true',
+    battery: 77,
+    plugged: false,
+    lc: 'RO',
+    lg: 'ro',
+    locales: 'ro-RO',
+    is24h: true,
+    platform: 'android',
+    phone: {
+      wa_version: '2.21.18.17',
+      mcc: '226',
+      mnc: '010',
+      os_version: '10',
+      device_manufacturer: 'samsung',
+      device_model: 'beyond2',
+      os_build_number: 'QP1A.190711.020.G975FXXU3BSKO'
+    },
+    tos: 0,
+    smbTos: 0,
+    pushname: 'Gabi',
+    stale: false,
+    blockStoreAdds: false,
+    isVoipInitialized: false
+  },
+  to: {
+    fromMe: true,
+    remote: {
+      server: 'c.us',
+      user: '40726634755',
+      _serialized: '40726634755@c.us'
+    },
+    id: 'YSQUJNGVJLULXS6L5BWJ',
+    _serialized: 'true_40726634755@c.us_YSQUJNGVJLULXS6L5BWJ'
+  },
+  erro: false,
+  text: 'Poza a fost receptionata',
+  status: 'OK',
+  type: 'sendText'
+}
+Data received from Db: 
+[
+  RowDataPacket {
+    id: 103,
+    timestamp: '20-9-2021',
+    nr: '40726634755',
+    msj: '',
+    name: '',
+    nrinmatr: '',
+    km: 0,
+    img: '20-9-2021@40726634755'
+  }
+]
+40726634755 a introdus deja poza pe data 20-9-2021
+Dacă era vaccinat răspundea de ieri ca l-a mai întrebat cineva
+Hey, parca am zis ca nu sunt
+e vaccinat doar spiritual
+Nici nu are importanta. Nevaccinat sau vaccinat poti contacta din nou virusul
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+E o raceala cu dureri de tendoane și frisoane
+Poți sa o faci oricand
+Dormi o zi cu geamul și usa deschis ca te ia un covid de nu te vezi
+Era o masina parcata pe trotuar, de l bloca cu totu
+I am ridicat stergatoarele
+:))) Din ciclul copiii spun lucruri traznite :)
+Si m am dus in casa si am scris or o foaie
+Ai parcat ca un bou/vaca
+Mama cica sa fiu civilizata
+Experienta difera de la individ la individ. Unii stau la ati cu un tub in gat o vreme. Dar sunt convins ca ar lua "răceala" asta la fel de relax
+Hai mai ma lasi
+Ca daca da masina peste mine ca e parcat ala pe trotuar si teb sa merg pe sosea
+Tot vjna mea e
+Lasa ma cu civilizatia
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Da de ce nu si parcheaza mașinile n casa in puii mei
+Nici prea multa grija sa nu fi avut de corpul tău, ca iti face covidutu patul imediat
+Sa se dea jos din pat sa se urce direct jn ele
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Concediu plăcut oricum😂
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+State Connection Stream: DISCONNECTED
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}

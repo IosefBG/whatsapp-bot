@@ -1,9 +1,11 @@
 module.exports = {
     apps : [{
         name   : "website",
-        script : "./app.js"
+        script : "./app.js",
+        out_file : "./logs/web.txt"
     },{
         name   : "bot",
-        script : "./bot.js"
+        script : "./bot.js",
+        out_file : "./logs/bot.txt"
     }]
 }

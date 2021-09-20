@@ -687,3 +687,185 @@ OkPacket {
   changedRows: 0
 }
 SELECT * FROM info WHERE timestamp >= 4-9-2021 and nr = 40787247522
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  isLogged
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+State Connection Stream: CONNECTED
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+!km
+nume: fata mea, nr inmatriculare: B-12345, km: 25000
+Result:  {
+  me: {
+    id: '1',
+    ref: '1@wS1EZ9h/5Pdp90hMsPRWrBhMnmPXtrZKG2su/WeSj8YtpRiqybdHpeDX1CQhG9V7ykHXTCykUk7UOA==',
+    refTTL: 20000,
+    wid: {
+      server: 'c.us',
+      user: '40754856887',
+      _serialized: '40754856887@c.us'
+    },
+    connected: true,
+    protoVersion: [ 0, 17 ],
+    clientToken: 'TYz/c5R8v2CpN7m/m6T92JLKkYvOTeAuXrtmQyP3qtE=',
+    serverToken: '1@BjKUFLo1VdX3XrCtZVh8kkWjtHcVGcsAOtXA4VE/HfDVFQguIBlDrR+j5iVcdcnytbg6QEbfUslYww==',
+    isResponse: 'true',
+    battery: 30,
+    plugged: false,
+    lc: 'RO',
+    lg: 'ro',
+    locales: 'ro-RO',
+    is24h: true,
+    platform: 'android',
+    phone: {
+      wa_version: '2.21.18.17',
+      mcc: '226',
+      mnc: '010',
+      os_version: '10',
+      device_manufacturer: 'samsung',
+      device_model: 'beyond2',
+      os_build_number: 'QP1A.190711.020.G975FXXU3BSKO'
+    },
+    tos: 0,
+    smbTos: 0,
+    pushname: 'Gabi',
+    stale: false,
+    blockStoreAdds: false,
+    isVoipInitialized: false
+  },
+  to: {
+    fromMe: true,
+    remote: {
+      server: 'c.us',
+      user: '40769280160',
+      _serialized: '40769280160@c.us'
+    },
+    id: 'KZ3SQR9SGXGV16EZ47Y2',
+    _serialized: 'true_40769280160@c.us_KZ3SQR9SGXGV16EZ47Y2'
+  },
+  erro: false,
+  text: 'Informatiile se proceseaza',
+  status: 'OK',
+  type: 'sendText'
+}
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 102,
+  serverStatus: 2,
+  warningCount: 1,
+  message: '',
+  protocol41: true,
+  changedRows: 0
+}
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIACkDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBAgQDBv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAASxIMWgKQKiHqycxuzxymlmaW1Jhc8JESU0smTGeI9DZL20X9EidD4+oEAVo7hX//xAAaEQACAgMAAAAAAAAAAAAAAAABEAAREiAh/9oACAECAQE/AHbAmL5r/8QAFhEAAwAAAAAAAAAAAAAAAAAAESAw/9oACAEDAQE/AHMP/8QAKhAAAQQBAwMCBgMAAAAAAAAAAQACAwQRBRIhEDFBE1EUFSAiI1IyYXH/2gAIAQEAAT8Ax7FfcPKyfKz05WVn6eT2BKyOoXC0oVJIpI2tyexJ8q3SfDa9MAkOP2lWNJlgjDzI3nwpKdiKH1Xswz3QcFlUKZq3tpkBcByAtYtOimiDT2OSrrRbobs8gbgqVj1aLo7LDsaP5FTCMSkRElvjPTYPijNnuMLV5PUvBvtgKWQxUTjuGqnK6SiDJg5CqUxancA8Nbnt5XyaD93KG9PCch5I9ihKJ7YklO3nlW/y03CPnI4UH49PwfDVo/N/P+rIR6Q35oWbBgj+07VJHROYWjkYyFokeHukJB4xhbgj9FW0+s4lnlfNLP7Bf//+AAMA/9k=
+verify_img= SELECT * FROM info WHERE timestamp = "19-9-2021" AND nr = "40769280160"
+Result:  {
+  me: {
+    id: '1',
+    ref: '1@wS1EZ9h/5Pdp90hMsPRWrBhMnmPXtrZKG2su/WeSj8YtpRiqybdHpeDX1CQhG9V7ykHXTCykUk7UOA==',
+    refTTL: 20000,
+    wid: {
+      server: 'c.us',
+      user: '40754856887',
+      _serialized: '40754856887@c.us'
+    },
+    connected: true,
+    protoVersion: [ 0, 17 ],
+    clientToken: 'TYz/c5R8v2CpN7m/m6T92JLKkYvOTeAuXrtmQyP3qtE=',
+    serverToken: '1@BjKUFLo1VdX3XrCtZVh8kkWjtHcVGcsAOtXA4VE/HfDVFQguIBlDrR+j5iVcdcnytbg6QEbfUslYww==',
+    isResponse: 'true',
+    battery: 30,
+    plugged: false,
+    lc: 'RO',
+    lg: 'ro',
+    locales: 'ro-RO',
+    is24h: true,
+    platform: 'android',
+    phone: {
+      wa_version: '2.21.18.17',
+      mcc: '226',
+      mnc: '010',
+      os_version: '10',
+      device_manufacturer: 'samsung',
+      device_model: 'beyond2',
+      os_build_number: 'QP1A.190711.020.G975FXXU3BSKO'
+    },
+    tos: 0,
+    smbTos: 0,
+    pushname: 'Gabi',
+    stale: false,
+    blockStoreAdds: false,
+    isVoipInitialized: false
+  },
+  to: {
+    fromMe: true,
+    remote: {
+      server: 'c.us',
+      user: '40769280160',
+      _serialized: '40769280160@c.us'
+    },
+    id: 'QA9TEKLEBOD05R95DZSW',
+    _serialized: 'true_40769280160@c.us_QA9TEKLEBOD05R95DZSW'
+  },
+  erro: false,
+  text: 'Poza a fost receptionata',
+  status: 'OK',
+  type: 'sendText'
+}
+Data received from Db: 
+[
+  RowDataPacket {
+    id: 102,
+    timestamp: '19-9-2021',
+    nr: '40769280160',
+    msj: 'nume: fata mea, nr inmatriculare: B-12345, km: 25000',
+    name: 'fata mea',
+    nrinmatr: 'B-12345',
+    km: 25000,
+    img: ''
+  }
+]
+Data received from Db: [object Object]

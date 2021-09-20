@@ -1,0 +1,3353 @@
+Server started on Port 80
+MYSQL Connected...
+Server started on Port 80
+MYSQL Connected...
+{ id: 1, iat: 1631891386, exp: 1639667386 }
+[
+  RowDataPacket {
+    id: 1,
+    name: 'da',
+    email: 'iosef_gabriel@yahoo.com',
+    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+    token: '2'
+  }
+]
+user is
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+{ id: 1, iat: 1631891386, exp: 1639667386 }
+[
+  RowDataPacket {
+    id: 1,
+    name: 'da',
+    email: 'iosef_gabriel@yahoo.com',
+    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+    token: '2'
+  }
+]
+user is
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+1
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' }
+]
+[
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' }
+]
+[
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 30
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' }
+]
+[
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 30
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' }
+]
+[
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 30
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160'
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+MYSQL Connected...
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+MYSQL Connected...
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 30
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+Server started on Port 80
+MYSQL Connected...
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 30
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 30
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 30
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+{}
+Server started on Port 80
+MYSQL Connected...
+{}
+{}
+{}
+Server started on Port 80
+MYSQL Connected...
+{}
+{}
+{}
+{}
+{}
+{}
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+{}
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+Server started on Port 80
+MYSQL Connected...
+{}
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+
+SELECT COUNT(id) as totalCount FROM info WHERE 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+Server started on Port 80
+MYSQL Connected...
+Server started on Port 80
+MYSQL Connected...
+{}
+{}
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+Server started on Port 80
+MYSQL Connected...
+{}
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+[Object: null prototype] { phnr: '40754481913' }
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+[Object: null prototype] { phnr: '40754481913' }
+Server started on Port 80
+MYSQL Connected...
+nr IS NOT NULL
+SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+40754481913
+40754481913
+Server started on Port 80
+MYSQL Connected...
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754227233-1631517065',
+  '40726634755',            '40754227233-1631517065'
+]
+[]
+[]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+nr = "40754481913" 
+SELECT COUNT(id) as totalCount FROM info WHERE nr = "40754481913" 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr = "40754481913"  LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[]
+[]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+[
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' }
+]
+[
+  '40787247522', '40787247522',
+  '40787247522', '40787247522',
+  '40787247522', '40787247522',
+  '40787247522', '40787247522',
+  '40787247522', '40787247522',
+  '40787247522', '40787247522',
+  '40787247522', '40787247522',
+  '40787247522', '40787247522'
+]
+nr = "40787247522" 
+SELECT COUNT(id) as totalCount FROM info WHERE nr = "40787247522" 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr = "40787247522"  LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+nr = "40754481913" 
+SELECT COUNT(id) as totalCount FROM info WHERE nr = "40754481913" 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr = "40754481913"  LIMIT 10 OFFSET 0
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' }
+]
+[
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913',
+  '40754481913', '40754481913'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754227233-1631517065',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754227233-1631517065',
+  '40754227233-1631517065'
+]
+[
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40787247522' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' }
+]
+[
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40754481913',            '40754481913',
+  '40754481913',            '40754481913',
+  '40787247522',            '40787247522',
+  '40787247522',            '40787247522',
+  '40754227233-1631517065', '40754481913',
+  '40754481913',            '40754481913',
+  '40754481913',            '40787247522',
+  '40787247522',            '40787247522',
+  '40787247522',            '40754227233-1631517065',
+  '40769280160',            '40726634755',
+  '40754227233-1631517065'
+]
+[ RowDataPacket { nr: '40769280160' } ]
+[ '40769280160' ]
+nr = "40769280160" 
+SELECT COUNT(id) as totalCount FROM info WHERE nr = "40769280160" 
+[
+  RowDataPacket { timestamp: '16-9-2021' },
+  RowDataPacket { timestamp: '17-9-2021' },
+  RowDataPacket { timestamp: '17-9-2022' },
+  RowDataPacket { timestamp: '18-9-2021' },
+  RowDataPacket { timestamp: '19-9-2021' },
+  RowDataPacket { timestamp: '20-9-2021' }
+]
+[
+  RowDataPacket { nr: '40726634755' },
+  RowDataPacket { nr: '40754227233-1631517065' },
+  RowDataPacket { nr: '40754481913' },
+  RowDataPacket { nr: '40769280160' },
+  RowDataPacket { nr: '40787247522' }
+]
+SELECT * FROM info WHERE nr = "40769280160"  LIMIT 10 OFFSET 0
+Server started on Port 80
+Error: connect EHOSTUNREACH 188.212.101.22:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1148:16)
+    --------------------
+    at Protocol._enqueue (G:\xampp\htdocs\ul\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (G:\xampp\htdocs\ul\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (G:\xampp\htdocs\ul\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (G:\xampp\htdocs\ul\app.js:84:5)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Object.<anonymous> (G:\xampp\htdocs\ul\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -4073,
+  code: 'EHOSTUNREACH',
+  syscall: 'connect',
+  address: '188.212.101.22',
+  port: 3306,
+  fatal: true
+}

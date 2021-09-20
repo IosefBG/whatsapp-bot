@@ -60,11 +60,25 @@ router.get('/account/dashboard', accountController.isLoggedIn, (req, res) => {
 
 
 })
+// router.get('/account/info', (req, res) => {
+//    res.redirect('/account/info/1');
+// });
+router.post('/account/info/1', (req,res) => {
+    const phnr = req.body;
+    // console.log(phnr.phnr);
+    res.redirect('/account/info/1/'+phnr.phnr);
+})
 
 router.get('/account/info/:page?/:filter?', (req, res) => {
+    // if (phnr !== undefined) {
+    //     console.log(phnr);
+    //     if (phnr.match(/40.{9}/g)) {
+    //         console.log("phnr= " + phnr);
+    //     }
+    // }
     Pagination = require('../controllers/pagination');
     const urls = req.originalUrl.split('/');
-    const url = urls[urls.length-1];
+    const url = urls[urls.length - 1];
     const param = req.params.page;
     const filterv = req.params.filter;
     var filter = "";
@@ -82,7 +96,7 @@ router.get('/account/info/:page?/:filter?', (req, res) => {
             filter = "nr IS NOT NULL";
         }
     } else {
-        page_id = 1;
+        res.redirect('/account/info/1');
     }
     currentPage = page_id > 0 ? page_id : currentPage, pageUri = '/account/info/';
 
@@ -126,13 +140,12 @@ router.get('/test', function (req, res) {
     res.render('info2');
 });
 
-router.get('/search',function(req,res){
-    db.query('SELECT nr from info where nr like "%'+req.query.key+'%"', function(err, rows, fields) {
+router.get('/search', function (req, res) {
+    db.query('SELECT nr from info where nr like "%' + req.query.key + '%"', function (err, rows, fields) {
         console.log(rows)
         if (err) throw err;
-        var data=[];
-        for(i=0;i<rows.length;i++)
-        {
+        var data = [];
+        for (i = 0; i < rows.length; i++) {
             data.push(rows[i].nr);
         }
         console.log(data);
