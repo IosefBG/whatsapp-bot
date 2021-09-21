@@ -13,14 +13,18 @@
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
             integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script type="text/javascript" src="/js/typeahead.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
             $('input[name="phnr"]').typeahead({
                 name: 'phnr',
-                remote: 'http://localhost:80/search?key=%QUERY',
+                remote: 'http://localhost:80/search/nr?key=%QUERY',
+                limit: 10
+            });
+            $('input[name="fname"]').typeahead({
+                name: 'fname',
+                remote: 'http://localhost:80/search/name?key=%QUERY',
                 limit: 10
             });
         });
@@ -76,39 +80,83 @@
         <div class="p-2">
 
             <div class="row">
-                <div class="col-3"><label>Filter by phone number
-                    <select class="form-select" onchange="location = this.value;">
-                        <option value="/account/info/1/">None</option>
-                        {{#each uniqnr}}
-                            <option value="/account/info/1/{{nr}}">{{nr}}</option>
-                        {{/each}}
-                    </select>
-                </label></div>
-                <div class="col-3">
-                    <label>Filter by date
-                        <select class="form-select" onchange="location = this.value;">
-                            <option selected>None</option>
-                            {{#each uniqtms}}
-                                <option value="/account/info/1/{{timestamp}}">{{timestamp}}</option>
-                            {{/each}}
-                        </select>
-                    </label>
-                </div>
-                <div class="col-3"><label>search bar</label>
+                <div class="col-md-6 col-lg-2"><label>Search by P.N.</label>
                     <div class="input-group rounded">
-                    <form action="/account/info/1" method="post">
-                        <input type="search" name="phnr" class="form-control rounded" autocomplete="off"
-                               spellcheck="false" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success" type="submit">Search</button>
-                    </form>
-
-                        <!--                        <span class="input-group-text border-0" id="search-addon"><i class="fas fa-search"></i></span>-->
+                        <form action="/account/info/1" method="post">
+                            <div class="row">
+                                <div class="col-8">
+                                    <input type="search" name="phnr" class="form-control rounded" autocomplete="off"
+                                           spellcheck="false" placeholder="Search" aria-label="Search">
+                                </div>
+                                <div class="col-4">
+                                    <button class="btn btn-outline-success" type="submit">Search</button>
+                                </div>
+                            </div>
+                        </form>
                     </div>
                 </div>
-                <div class="col-3"></div>
+                <div class="col-md-6 col-lg-2"><label>Search by Name</label>
+                    <div class="input-group rounded">
+                        <form action="/account/info/1" method="post">
+                            <div class="row">
+                                <div class="col-8">
+                                    <input type="search" name="fname" class="form-control rounded" autocomplete="off"
+                                           spellcheck="false" placeholder="Search" aria-label="Search">
+                                </div>
+                                <div class="col-4">
+                                    <button class="btn btn-outline-success" type="submit">Search</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3"><label>Search by Date</label>
+                    <div class="input-group rounded">
+                        <form action="/account/info/1" method="post">
+                            <div class="row">
+                                <div class="col-8">
+                                    <input type="date" name="fdate" id="fdate" class="form-control rounded"
+                                           autocomplete="off"
+                                           spellcheck="false" placeholder="Search" aria-label="Search"
+                                           value="2023-01-01"
+                                           min="2018-01-01" max="2023-01-01">
+                                </div>
+                                <div class="col-4">
+                                    <button class="btn btn-outline-success" type="submit">Search</button>
+                                </div>
+
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-5">
+                    <div class="input-group rounded">
+                        <form action="/account/info/raport" method="post">
+                            <div class="row">
+                                <div class="col-4"><label>From Date</label>
+                                    <input type="date" name="dates" id="fdate1" class="form-control rounded"
+                                           autocomplete="off"
+                                           spellcheck="false" placeholder="Search" aria-label="Search"
+                                           value="2023-01-01"
+                                           min="2018-01-01" max="2023-01-01">
+                                </div>
+                                <div class="col-4"><label>To Date</label>
+                                    <input type="date" name="datef" id="fdate2" class="form-control rounded"
+                                           autocomplete="off"
+                                           spellcheck="false" placeholder="Search" aria-label="Search"
+                                           value="2023-01-01"
+                                           min="2018-01-01" max="2023-01-01">
+                                </div>
+                                <div class="col-4 mt-4">
+                                    <button class="btn btn-outline-success" type="submit">Generate raport</button>
+                                </div>
+
+                            </div>
+                        </form>
+                    </div>
+                </div>
             </div>
         </div>
-
         <br/>
         <table class="table">
             <thead>
@@ -170,5 +218,18 @@
             $('#imagemodal_{{id}}').modal('show'); // imagemodal is the id attribute assigned to the bootstrap modal, then i use the show function
         });
         {{/each}}
+
+    const currentdate = new Date();
+    var month = currentdate.getMonth() + 1;
+    if (month.length !== 2) {
+        month = "0" + month;
+    }
+    const this_day = currentdate.getFullYear() + "-" + month + "-" + currentdate.getDate();
+    document.getElementById("fdate").value = this_day;
+    document.getElementById("fdate").max = this_day;
+    document.getElementById("fdate1").value = this_day;
+    document.getElementById("fdate1").max = this_day;
+    document.getElementById("fdate2").value = this_day;
+    document.getElementById("fdate2").max = this_day;
 
 </script>

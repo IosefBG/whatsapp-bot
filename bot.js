@@ -216,7 +216,7 @@ venom
                         var value = "";
                         con.query(query, async (err, res) => {
                             res.forEach(function (row) {
-                                value = value + 'data: ' + row.timestamp + 'km: ' + row.km + '\n';
+                                value = value + 'data: ' + row.timestamp + ' |km: ' + row.km + '\n';
                             });
                             client.sendText(message.from, value);
                         });

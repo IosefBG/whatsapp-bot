@@ -1664,3 +1664,325 @@ OkPacket {
   protocol41: true,
   changedRows: 0
 }
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+
+
+
+/\\\\\\\\      /\\\\\\\\    /\\\\\\\\\\\\ 
+\/\\\   \\\   /\\\_____/\\\ \/___/\\\___/ 
+ \/\\\   \\\  \/\\\    \/\\\     \/\\\    
+  \/\\\\\\\    \/\\\    \/\\\     \/\\\   
+   \/\\\   \\\\ \/\\\    \/\\\     \/\\\  
+    \/\\\    \\\ \/\\\    \/\\\     \/\\\ 
+     \/\\\\\\\\\  \/_/\\\\\\\\\      \/\\\
+      \/______/      \/_______/       \/_/
+
+
+
+[32minfo[39m:     [sessionName] Initializing browser wss...
+[32minfo[39m:     [sessionName] Browser successfully opened
+[32minfo[39m:     [sessionName] checking headless...
+[32minfo[39m:     [sessionName] headless option is active, browser hidden
+[32minfo[39m:     [sessionName] Checking page...
+[32minfo[39m:     [sessionName] Page successfully accessed
+Status Session:  notLogged
+Session name:  sessionName
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀▀ ██▄ ██ █▀██▄▄▀▀▀▄  ▄ ▀▀█▀▄█ ▄▄▄▄▄ █
+█ █   █ █▀▄ ▄▀███▀ ▀█  ▀▀█▀▄▀▄██ ▄ █ ▀█ █   █ █
+█ █▄▄▄█ █▀██▄█▄▄███▄█ ▄▄▄ ▄▀▄█▄  █▀▄▄▄█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█▄▀ █ ▀ ▀ █ █▄█ ▀▄▀ █ █ ▀ █▄█▄▄▄▄▄▄▄█
+█    ▄█▄▄▄   █▄▀█▄▄▄▀▄   ▄ ███   ▀ █▄▀ █▄▀ █ ▀█
+█ ▀██  ▄ ▀▀██ ▄█▀▄▄█▀███▀ █▄▄▀▀ ▀█  █▀▄██ ▄  ██
+██▄▀ ▄ ▄█▀ █▄▄ ▀██▀▄▄ █ ▄▄ ▄▀▀ ▀▄██▄▀ ▀███ ▀ ▀█
+█▄▄▄▄▄█▄▄ ▀▀  ▄▀█▀▄  ▄▄█ ▄▄▄▀█▀█▄█ ▀▀▀▀▄ █  ▀▀█
+██▀▀█▄ ▄█▄▀▄ █▄▀▄▄▄ ▀▄▄▄█▀▀▄▀▀  ▄██▄▀▀▀▄█▀ █▄▀█
+██▀▀█▀▀▄▀ ▄██▄▄▀██ ▄█▄▄█▄ ▄▀▄▄███▀▄▄██ ▀▄▀▄ ▄██
+█ ▄▀█ ▄▄▄  ▄█  █▄█ ▄█ ▄▄▄  █▀█▀  ▀█▄▀ ▄▄▄ █▀▀▀█
+██▄▄▀ █▄█  ▀▄█ █▄█▄█▀ █▄█ ▀██▀██ ▀▀ ▄ █▄█  ▀▄██
+█ ▄ █▄ ▄  █▄▄  ▀▀▄▄ ▄ ▄▄ ▄▄█▀▀▀▀▀███▀▄ ▄ ▄ █▄██
+█▄▀ █ ▀▄▄██▀▄ ▀█▀█▀▄▀▄█ ▀ ▄  █  ▀ ▄█ █▄▀▄▀▀  ██
+█ ▀ ▄▄ ▄▄▀█▀   ▀▄▄▄ █▀██▀▀ █▀▀ ▀▄███▀ ▄█▄██▀███
+████▀██▄  ▄▀█  ▀▄▄▄▀██ ▀▀▀▄▀█ ▀▀▀ ▄ ▄▄ █▄    ██
+█▀ █  ▄▄▀ ▄▀▀▄▀▀▄█▄▄▄▀██  ▀█ ▀▀ ▀█▄▄▀▀▀ ▄▄▀ ▀▀█
+██▀▀▀ █▄▀▀ ▄▀█▀▄█▀█▄▀▀▄█▄▀▀█ █ ▄▀▀ ███▄▀▄█ ▀███
+█▄██▄▄█▄▄ █  ▀ ▀▀▄█▄  ▄▄▄  █▀█▄▀██ ▄█ ▄▄▄ ▄█▀ █
+█ ▄▄▄▄▄ █▄▀▀▀▄ ▄ █▀▀  █▄█ ▄███ ▀ ▄▄▄▄ █▄█ █▀█▀█
+█ █   █ █  ▀█ ▀▀▄▄  ▀▄▄▄▄▄ ▄▀█▀▀ █▄██  ▄ ▄ ▀ ██
+█ █▄▄▄█ █    ▄ ▀▄▄▀██▀█▄▄██▀▄ ▄ ▄ ▄ ▄ ▀█▀▀ ▀█▄█
+█▄▄▄▄▄▄▄█▄█▄██▄███▄▄▄█▄█▄▄█▄▄█▄▄▄██▄▄▄█▄▄██▄▄██
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀▀ ██▄ ██ █▀██▄▄▀▀▀▄  ▄ ▀▀█▀▄█ ▄▄▄▄▄ █
+█ █   █ █▀▄ ▄▀███▀ ▀█  ▀▀█▀▄▀▄██ ▄ █ ▀█ █   █ █
+█ █▄▄▄█ █▀██▄█▄▄███▄█ ▄▄▄ ▄▀▄█▄  █▀▄▄▄█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█▄▀ █ ▀ ▀ █ █▄█ ▀▄▀ █ █ ▀ █▄█▄▄▄▄▄▄▄█
+█    ▄█▄▄▄   █▄▀█▄▄▄▀▄   ▄ ███   ▀ █▄▀ █▄▀ █ ▀█
+█ ▀██  ▄ ▀▀██ ▄█▀▄▄█▀███▀ █▄▄▀▀ ▀█  █▀▄██ ▄  ██
+██▄▀ ▄ ▄█▀ █▄▄ ▀██▀▄▄ █ ▄▄ ▄▀▀ ▀▄██▄▀ ▀███ ▀ ▀█
+█▄▄▄▄▄█▄▄ ▀▀  ▄▀█▀▄  ▄▄█ ▄▄▄▀█▀█▄█ ▀▀▀▀▄ █  ▀▀█
+██▀▀█▄ ▄█▄▀▄ █▄▀▄▄▄ ▀▄▄▄█▀▀▄▀▀  ▄██▄▀▀▀▄█▀ █▄▀█
+██▀▀█▀▀▄▀ ▄██▄▄▀██ ▄█▄▄█▄ ▄▀▄▄███▀▄▄██ ▀▄▀▄ ▄██
+█ ▄▀█ ▄▄▄  ▄█  █▄█ ▄█ ▄▄▄  █▀█▀  ▀█▄▀ ▄▄▄ █▀▀▀█
+██▄▄▀ █▄█  ▀▄█ █▄█▄█▀ █▄█ ▀██▀██ ▀▀ ▄ █▄█  ▀▄██
+█ ▄ █▄ ▄  █▄▄  ▀▀▄▄ ▄ ▄▄ ▄▄█▀▀▀▀▀███▀▄ ▄ ▄ █▄██
+█▄▀ █ ▀▄▄██▀▄ ▀█▀█▀▄▀▄█ ▀ ▄  █  ▀ ▄█ █▄▀▄▀▀  ██
+█ ▀ ▄▄ ▄▄▀█▀   ▀▄▄▄ █▀██▀▀ █▀▀ ▀▄███▀ ▄█▄██▀███
+████▀██▄  ▄▀█  ▀▄▄▄▀██ ▀▀▀▄▀█ ▀▀▀ ▄ ▄▄ █▄    ██
+█▀ █  ▄▄▀ ▄▀▀▄▀▀▄█▄▄▄▀██  ▀█ ▀▀ ▀█▄▄▀▀▀ ▄▄▀ ▀▀█
+██▀▀▀ █▄▀▀ ▄▀█▀▄█▀█▄▀▀▄█▄▀▀█ █ ▄▀▀ ███▄▀▄█ ▀███
+█▄██▄▄█▄▄ █  ▀ ▀▀▄█▄  ▄▄▄  █▀█▄▀██ ▄█ ▄▄▄ ▄█▀ █
+█ ▄▄▄▄▄ █▄▀▀▀▄ ▄ █▀▀  █▄█ ▄███ ▀ ▄▄▄▄ █▄█ █▀█▀█
+█ █   █ █  ▀█ ▀▀▄▄  ▀▄▄▄▄▄ ▄▀█▀▀ █▄██  ▄ ▄ ▀ ██
+█ █▄▄▄█ █    ▄ ▀▄▄▀██▀█▄▄██▀▄ ▄ ▄ ▄ ▄ ▀█▀▀ ▀█▄█
+█▄▄▄▄▄▄▄█▄█▄██▄███▄▄▄█▄█▄▄█▄▄█▄▄▄██▄▄▄█▄▄██▄▄██
+
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+Status Session:  chatsAvailable
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+Status Session:  qrReadSuccess
+Session name:  sessionName
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 34,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+!km
+Amm ajuns acasaaa
+nume: Diana Ul, nr inmatriculare: B-00078, km: 2566
+Result:  {
+  me: {
+    id: '1',
+    ref: '1@eusqJ2NCOVTTbZzb8+iNDmQ90CmqMjTVXR2zAn5bU8CN6Kn9tRTnCVt/N7sB+P6dMYx4vQywlpV1Dw==',
+    refTTL: 20000,
+    wid: {
+      server: 'c.us',
+      user: '40754856887',
+      _serialized: '40754856887@c.us'
+    },
+    connected: true,
+    protoVersion: [ 0, 17 ],
+    clientToken: 'tKL4aUk3j+tAWAX9s1X34Aya0dPHqqv2uoRsG3GjGEk=',
+    serverToken: '1@kxg+anarnivr+PiPabapoDoePajtaqBei7cdoPn2+g88DliiOwdN6+djl/qryoNxHVHzxMvrSZV5pw==',
+    secret: 'vmmpMp2nZc3saEs24lF8RAiziTkomT8cbXS2oScub3JRmd1z4/yCMRzFjgvd1KjTd2KF4PzGYRgDaWJoMd6jEgfXUNGx8KZ0Cct/VHwHi4B3vB08J2tIGK5xSXfzNLMcV6wgMBiGn2UDU/W9Q0RzhEw43CNL8bEAWezK0cSLpjTshaGwOMC4JpNZwk9o8cyn',
+    isResponse: 'false',
+    battery: 71,
+    plugged: false,
+    lc: 'RO',
+    lg: 'ro',
+    locales: 'ro-RO',
+    is24h: true,
+    platform: 'android',
+    phone: {
+      wa_version: '2.21.18.17',
+      mcc: '226',
+      mnc: '010',
+      os_version: '10',
+      device_manufacturer: 'samsung',
+      device_model: 'beyond2',
+      os_build_number: 'QP1A.190711.020.G975FXXU3BSKO'
+    },
+    tos: 0,
+    smbTos: 0,
+    pushname: 'Gabi',
+    stale: false,
+    blockStoreAdds: false,
+    isVoipInitialized: false
+  },
+  to: {
+    fromMe: true,
+    remote: {
+      server: 'c.us',
+      user: '40760026783',
+      _serialized: '40760026783@c.us'
+    },
+    id: 'ZMLGPOR2VUIYVT18IMGH',
+    _serialized: 'true_40760026783@c.us_ZMLGPOR2VUIYVT18IMGH'
+  },
+  erro: false,
+  text: 'Informatiile se proceseaza',
+  status: 'OK',
+  type: 'sendText'
+}
+Data inserted into Db:
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 105,
+  serverStatus: 2,
+  warningCount: 1,
+  message: '',
+  protocol41: true,
+  changedRows: 0
+}
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIACkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQMAAgQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAAxElkYwS7MpdzlvluqfzeglMNQanoZutTDXkKLNc8c1O0nVXFnzpXU5zaly4QsiQDaRomQP/EABwRAQACAwADAAAAAAAAAAAAAAEAEQIQIRIxQf/aAAgBAgEBPwAxUuNGjJJ70L9g12Xi9ngSpUN//8QAGREAAwEBAQAAAAAAAAAAAAAAAAEREBIx/9oACAEDAQE/AKJN5DzGkMjOilHv/8QAKhAAAgEDAwQABQUAAAAAAAAAAQIAAwQREiExEyJBURAUQlNhIzJScZH/2gAIAQEAAT8AAx4mYN9gItJ24GItuPqOZ0af8RNDEcSmqtz4iBVHEW6UE7RLlHGeJ1F9x20Eq2xlrVVNSlAytyfUuh0qZK7g8RnY7CUTpQI/B8+ppP3BGOvc8y3OHCtsDKr6KgpP+zwZd260sNTYEepScVF0tzOj+ZcWW5ZR/kZWpDSwLA+ccQlm7HAdPB9SuuleohOBsRDqbupnf1OpcQNkRlDciXtVmrmkowspUdVDpgEk8mLZOx7CAw5WfKPEvE+sY/MvrsLbfosCzbbeJVLuwLHf3La/opTVWpsGAwSPMr1y9ZmpkqpnUq/cMaOQDFQk5aAQfC4XuwmQPZmAP7ggg+H//gADAP/Z
+verify_img= SELECT * FROM info WHERE timestamp = "21-9-2021" AND nr = "40760026783"
+Result:  {
+  me: {
+    id: '1',
+    ref: '1@eusqJ2NCOVTTbZzb8+iNDmQ90CmqMjTVXR2zAn5bU8CN6Kn9tRTnCVt/N7sB+P6dMYx4vQywlpV1Dw==',
+    refTTL: 20000,
+    wid: {
+      server: 'c.us',
+      user: '40754856887',
+      _serialized: '40754856887@c.us'
+    },
+    connected: true,
+    protoVersion: [ 0, 17 ],
+    clientToken: 'tKL4aUk3j+tAWAX9s1X34Aya0dPHqqv2uoRsG3GjGEk=',
+    serverToken: '1@kxg+anarnivr+PiPabapoDoePajtaqBei7cdoPn2+g88DliiOwdN6+djl/qryoNxHVHzxMvrSZV5pw==',
+    secret: 'vmmpMp2nZc3saEs24lF8RAiziTkomT8cbXS2oScub3JRmd1z4/yCMRzFjgvd1KjTd2KF4PzGYRgDaWJoMd6jEgfXUNGx8KZ0Cct/VHwHi4B3vB08J2tIGK5xSXfzNLMcV6wgMBiGn2UDU/W9Q0RzhEw43CNL8bEAWezK0cSLpjTshaGwOMC4JpNZwk9o8cyn',
+    isResponse: 'false',
+    battery: 71,
+    plugged: false,
+    lc: 'RO',
+    lg: 'ro',
+    locales: 'ro-RO',
+    is24h: true,
+    platform: 'android',
+    phone: {
+      wa_version: '2.21.18.17',
+      mcc: '226',
+      mnc: '010',
+      os_version: '10',
+      device_manufacturer: 'samsung',
+      device_model: 'beyond2',
+      os_build_number: 'QP1A.190711.020.G975FXXU3BSKO'
+    },
+    tos: 0,
+    smbTos: 0,
+    pushname: 'Gabi',
+    stale: false,
+    blockStoreAdds: false,
+    isVoipInitialized: false
+  },
+  to: {
+    fromMe: true,
+    remote: {
+      server: 'c.us',
+      user: '40760026783',
+      _serialized: '40760026783@c.us'
+    },
+    id: 'VHFZ3LVAR40VM4LMHYYC',
+    _serialized: 'true_40760026783@c.us_VHFZ3LVAR40VM4LMHYYC'
+  },
+  erro: false,
+  text: 'Poza a fost receptionata',
+  status: 'OK',
+  type: 'sendText'
+}
+Data received from Db: 
+[
+  RowDataPacket {
+    id: 105,
+    timestamp: '21-9-2021',
+    nr: '40760026783',
+    msj: 'nume: Diana Ul, nr inmatriculare: B-00078, km: 2566',
+    name: 'Diana Ul',
+    nrinmatr: 'B-00078',
+    km: 2566,
+    img: ''
+  }
+]
+Data received from Db: [object Object]
+!check
+SELECT * FROM info WHERE timestamp >= 7-9-2021 and nr = 40760026783
+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
+Okayyy
+Biniiiii
+Mie cam foameeee
+Tuuu cum estiiii??
+Siiii
+Ceee faciiii?
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIAMBIgACEQEDEQH/xAAuAAADAQEBAAAAAAAAAAAAAAAAAgQDAQYBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAPOcrzFOzoP2pRMzlk1Mhm5Uo0tELXNsylc68+uD1cAP/8QAJRAAAgECBAcBAQAAAAAAAAAAAQIAAxESITFBBBMUIkJRUjKh/9oACAEBAAE/AA2ka1zaCY7XtMIK4eUBlradMff8j0HXQEzlVPhoeFB8p0gHnEpYKuxBgVD4rGdUzLiPxMpVEd8vU7RHCbqDAlO35EBRSO0CYz8xlJOcAABJEVi9Y/IhMDi0dwcoqhZYS6EkXGUdAdDaCmQoECsNovDIrs25nKUQCAT/xAAcEQACAgMBAQAAAAAAAAAAAAAAAREhAhAyI2H/2gAIAQIBAT8A16QW+lZP0TbyHMHWNVv/xAAdEQACAgEFAAAAAAAAAAAAAAABEQAQAiEiMUFh/9oACAEDAQE/AHQdbnzMice3B6YWy9b/AP/Z
+Astaaa facccc
+🥺🥺
+Hihiii
+Multuuuumesccccccc scumpuleeee
+Tr ador
+Sunt colegi care reușesc sa facă UTR 1,2 lejer. Dacă vrei sa iti crești UTR, lucrezi în weekend când traficul e mai lejer.
