@@ -13780,3 +13780,153 @@ RowDataPacket {
 nr IS NOT NULL
 SELECT COUNT(id) as totalCount FROM info WHERE nr IS NOT NULL
 SELECT * FROM info WHERE nr IS NOT NULL LIMIT 10 OFFSET 0
+Server started on Port 80
+MYSQL Connected...
+undefined
+[
+  RowDataPacket {
+    id: 1,
+    name: 'da',
+    email: 'iosef_gabriel@yahoo.com',
+    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+    token: '2'
+  }
+]
+[
+  RowDataPacket {
+    id: 1,
+    name: 'da',
+    email: 'iosef_gabriel@yahoo.com',
+    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+    token: '2'
+  }
+]
+The token is: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjMyNTc0ODIwLCJleHAiOjE2NDAzNTA4MjB9.CBSFMN0vqZ--eykNHD0I9nhppp2V-EydJt4nE7eyr0U
+{ id: 1, iat: 1632574820, exp: 1640350820 }
+[
+  RowDataPacket {
+    id: 1,
+    name: 'da',
+    email: 'iosef_gabriel@yahoo.com',
+    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+    token: '2'
+  }
+]
+user is
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+{ id: 1, iat: 1632574820, exp: 1640350820 }
+[
+  RowDataPacket {
+    id: 1,
+    name: 'da',
+    email: 'iosef_gabriel@yahoo.com',
+    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+    token: '2'
+  }
+]
+user is
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+0
+{ id: 1, iat: 1632574820, exp: 1640350820 }
+[
+  RowDataPacket {
+    id: 1,
+    name: 'da',
+    email: 'iosef_gabriel@yahoo.com',
+    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+    token: '2'
+  }
+]
+user is
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+0
+{ id: 1, iat: 1632574820, exp: 1640350820 }
+[
+  RowDataPacket {
+    id: 1,
+    name: 'da',
+    email: 'iosef_gabriel@yahoo.com',
+    password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+    token: '2'
+  }
+]
+user is
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+RowDataPacket {
+  id: 1,
+  name: 'da',
+  email: 'iosef_gabriel@yahoo.com',
+  password: '$2a$08$SsMjPFpOuFsNh5/3Rq/3.ekSq4Q5ctMKBYSgHMbEzJSRoAX6B5YsG',
+  token: '2'
+}
+1
+JsonWebTokenError: jwt malformed
+    at module.exports (C:\Users\gabi\WebstormProjects\ul\node_modules\jsonwebtoken\verify.js:63:17)
+    at node:internal/util:363:7
+    at new Promise (<anonymous>)
+    at node:internal/util:349:12
+    at exports.isLoggedIn (C:\Users\gabi\WebstormProjects\ul\controllers\account.js:202:56)
+    at Layer.handle [as handle_request] (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gabi\WebstormProjects\ul\node_modules\express\lib\router\index.js:275:10)
+    at Immediate.<anonymous> (C:\Users\gabi\WebstormProjects\ul\node_modules\express-session\index.js:506:7)
+    at processImmediate (node:internal/timers:466:21)
+undefined
+Server started on Port 80
+MYSQL Connected...

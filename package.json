@@ -1,19 +1,18 @@
 {
-  "name": "node-mysql",
+  "name": "whatsapp-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "whatsapp bot + web",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "pm2 start"
   },
   "keywords": [],
-  "accountor": "",
+  "accountor": "Kstuard",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
-    "child_process": "^1.0.2",
     "cookie-parser": "^1.4.5",
     "dotenv": "^8.2.0",
     "exceljs": "^4.3.0",
